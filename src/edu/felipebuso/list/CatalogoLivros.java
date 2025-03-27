@@ -1,4 +1,4 @@
-package edu.felipebuso.pesquisa;
+package edu.felipebuso.list;
 
 import java.util.ArrayList;
 import java.util.List;

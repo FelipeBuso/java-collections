@@ -1,4 +1,4 @@
-package edu.felipebuso.ordenacao;
+package edu.felipebuso.set;
 
 import java.util.Comparator;
 import java.util.Objects;

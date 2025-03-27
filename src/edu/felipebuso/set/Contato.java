@@ -1,4 +1,4 @@
-package edu.felipebuso.pesquisa;
+package edu.felipebuso.set;
 
 import java.util.Objects;
 

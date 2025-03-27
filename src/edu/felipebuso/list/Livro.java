@@ -1,4 +1,4 @@
-package edu.felipebuso.pesquisa;
+package edu.felipebuso.list;
 
 public class Livro {
 	private String titulo;
